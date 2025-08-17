@@ -1,6 +1,6 @@
 # GenAI-RAG-Assistant
 
-GenAI RAG Assistant
+#GenAI RAG Assistant
 
 This project is a Generative AI-powered Assistant that combines Retrieval-Augmented Generation (RAG) with conversational intelligence to provide accurate, contextual, and human-like responses.
 
